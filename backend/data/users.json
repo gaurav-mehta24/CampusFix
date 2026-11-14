@@ -1,0 +1,53 @@
+[
+  {
+    "id": "dd12d1e6-c8e2-4971-a6db-10d87e6dfc5a",
+    "name": "Test Student",
+    "email": "student@test.com",
+    "password": "$2b$12$j4Ey.rU2Jf8jsWqF/AkWC.WNobVtcWQEm9eSF.vR1zG6UgqG5PcWy",
+    "role": "student",
+    "createdAt": "2026-11-14T06:21:33.237Z"
+  },
+  {
+    "id": "700b8950-38b5-4c33-859d-45ba01326065",
+    "name": "eiwn",
+    "email": "dwa@gmail.cpm",
+    "password": "$2b$12$1J9gkDPkPiXjjyeghdeWx.Nj4iU0ueps9VsUTd.Sb18iwkrvEwyH6",
+    "role": "student",
+    "createdAt": "2026-11-14T06:38:58.189Z"
+  },
+  {
+    "id": "570e1821-2945-48a6-85fa-57e87456465f",
+    "name": "gaurav mehta",
+    "email": "mehtagaurav1825@gmail.com",
+    "password": "$2b$12$XzJA0zoXWV45NvioZeQMqeEpouM3LyHCqiJbREpTe1cd5wZm6rpUi",
+    "role": "student",
+    "createdAt": "2026-11-14T06:39:46.165Z"
+  },
+  {
+    "id": "acb32b45-6ce7-44d6-a134-12fbd343856e",
+    "name": "ghdgwh",
+    "email": "kizzy6301@gmail.com",
+    "password": "$2b$12$GWiaM2oI1hE72/Fpi2ySK.izRug9F5x5LIyA6UeUY2aaTz1CQVEOe",
+    "role": "student",
+    "department": null,
+    "createdAt": "2026-11-14T07:04:55.803Z"
+  },
+  {
+    "id": "b4e3408b-9fbd-4e01-bf6d-b6a5718fc3ea",
+    "name": "admin",
+    "email": "admin@campusfix.com",
+    "password": "$2b$12$JUPCszelpKqq6wkFmwmvQedepkE3pDyfvNf5zNV7CDjIOUNXhswGi",
+    "role": "admin",
+    "department": null,
+    "createdAt": "2026-11-14T07:10:13.497Z"
+  },
+  {
+    "id": "f76a8024-3f3b-4625-a6d5-8bc1b29b5548",
+    "name": "shivam kumar",
+    "email": "shivamkumar123@gmail.com",
+    "password": "$2b$12$McdXKLwH/OMk1SGeb6w0j.JTOznM0nNIWubLjK7C9wWLvxay9zliK",
+    "role": "staff",
+    "department": "HOUSEKEEPING",
+    "createdAt": "2026-11-14T07:12:35.035Z"
+  }
+]
