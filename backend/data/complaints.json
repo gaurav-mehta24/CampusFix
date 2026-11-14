@@ -1,0 +1,18 @@
+[
+  {
+    "id": "63fc16ff-7420-48ff-a3f7-6cc15aa74de9",
+    "title": "Broken classroom fan",
+    "description": "The fan in classroom 204 is not working",
+    "category": "Electrical",
+    "location": "Classroom 204",
+    "reporterName": "Student One",
+    "beforeImage": null,
+    "status": "reported",
+    "createdAt": "2026-11-14T02:24:19.137Z",
+    "duplicateOf": null,
+    "affectedStudents": 1,
+    "linkedReports": [],
+    "resolution": null,
+    "verification": null
+  }
+]
